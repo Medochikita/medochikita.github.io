@@ -6,7 +6,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(28, 101, 71);    
+    background-color: rgb(28, 101, 71);  
+    font-family: Sans-serif;  
 }
 main{
     background-color: white;
@@ -14,5 +15,11 @@ main{
     width: 80%;
     margin: auto;
 }
-
-
+.intoduction{
+    font-size: large;
+    font-family: Sans-serif;
+}
+hr{
+    width: 40%;
+    margin: auto;
+}

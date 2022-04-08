@@ -9,6 +9,7 @@
 
   <link rel="stylesheet" href="CSS/navigation.css">
   <link rel="stylesheet" href="CSS/main.css">
+  <link rel="stylesheet" href="CSS/cards.css">
 </head>
 
 <body>
@@ -31,8 +32,10 @@
       </ul>
     </nav>
   </header>
+
   <main>
-    <section id="intoduction">
+    
+    <section class="intoduction">
       <h1>Hi, I'm Medochikita.</h1>
       <p>Just a guy who wants to do some stuff in python and C++.</p>
       <br>
@@ -40,58 +43,55 @@
       <h1>Hi, I'm Medochikita.</h1>
       <p>Just a guy who wants to do some stuff in python and C++.</p>
       <br>
+      <hr>
+      <br>  
       <img src="IMG/profile.JPG" alt="Profile image">
+    </section> 
+
+    <section class="projects">
+
+          <article class="PythonAr">
+            <img src="IMG/1200px-Python-logo-notext.svg.png" alt="Python logo">
+            <div class="text">
+              <header>
+                <h3>Discord bot in python using nextcord</h3>
+                <br>
+              </header>
+              <footer>
+              <a href="HTML/python-bot.html">See More</a>
+              </footer>
+            </div>
+          </article>
+
+          <article class="CplusplusAr">
+            <img src="IMG/640px-ISO_C++_Logo.svg.png" alt="C++ logo">
+            <div class="text">
+              <header>
+                <h3>Game hacks C++ ( still in progress )</h3>
+                <br>
+              </header>
+              <footer>
+              <a href="HTML/hackingcplusplus.html">See More</a>
+              </footer>
+            </div>
+          </article>
+
+          <article class="CplusplusBegAr">
+            <img src="IMG/640px-ISO_C++_Logo.svg.png" alt="C++ logo">
+            <div class="text">
+              <header>
+                <h3>Basic C++ project for learning</h3>
+                <br>
+              </header>
+              <footer>
+              <a href="HTML/basiccplusplus.html">See More</a>
+              </footer>
+            </div>
+          </article>
+
     </section>
-    <section id="projects">
-      <h2>Projects</h2>
-      <ul>
-        <li>
-          <article>
-            <header>
-              <h3>Discord bot in python using nextcord library</h3>
-            </header>
-            <p>
-              Using nextcord library i was able to build a discord bot ( just a simple one ) for me and my friends
-            </p>
-            <footer>
-              <p>
-                <a href="HTML/python-bot.html">See More</a>
-              </p>
-            </footer>
-          </article>
-        </li>
-        <li>
-          <article>
-            <header>
-              <h3>Game hacks C++ ( still in progress )</h3>
-            </header>
-            <p>
-              Trying to learn game hacking with C++. My final dream would be to hack apex legends.
-            </p>
-            <footer>
-              <p>
-                <a href="HTML/hackingcplusplus.html">See More</a>
-              </p>
-            </footer>
-          </article>
-        </li>
-        <li>
-          <article>
-            <header>
-              <h3>Basic C++ project for learning</h3>
-            </header>
-            <p>
-              Just some simple program in C++ that i created when i was learning
-            </p>
-            <footer>
-              <p>
-                <a href="HTML/basiccplusplus.html">See More</a>
-              </p>
-            </footer>
-          </article>
-        </li>
-      </ul>
-    </section>
+
+  </main>
   <footer></footer>
 </body>
 </html>

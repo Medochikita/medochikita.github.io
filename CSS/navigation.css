@@ -16,7 +16,7 @@ label.logo{
     font-size: 35px;
     line-height: 75px;
     padding: 0 50px;
-    font-family: bold;
+    font-family: Bold;
     float: left;
 }
 nav ul{
@@ -31,5 +31,6 @@ nav ul li{
 nav ul li a{
     color: black;
     font-size: 17px;
+    font-family: bold;
     text-transform: uppercase;
 }
