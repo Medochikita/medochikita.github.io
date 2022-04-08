@@ -5,6 +5,13 @@
     list-style: none;
     box-sizing: border-box;
 }
+body{
+    background-color: aquamarine;
+}
+.Allcon{
+    background-color: aliceblue;
+    text-align: center;
+}
 nav{
     background-color: white;
     height: 75px;
