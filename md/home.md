@@ -23,6 +23,7 @@
 | Paragraph | Text | <br>
 
 ```
+
 {
   "firstName": "John",
   "lastName": "Smith",
