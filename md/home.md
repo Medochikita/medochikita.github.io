@@ -40,12 +40,6 @@ Here's a sentence with a footnote. [^1] <br>
 - [x] Write the press release <br>
 - [ ] Update the website <br>
 
-I need to highlight these ==very important words==. <br>
-
-H~2~O  <br>
-
-X^2^ <br>
-
 That is so funny! :joy: <br>
 term
 : definition <br>
