@@ -1,40 +1,40 @@
-# H1
-## H2
-### H3
-**bold text**
-*italicized text*
-> blockquote
-1. First item
-2. Second item
-3. Third item
-- First item
-- Second item
-- Third item
-`code`
----
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+# H1 <br>
+## H2 <br>
+### H3 <br>
+**bold text** <br>
+*italicized text* <br>
+> blockquote <br>
+1. First item <br>
+2. Second item <br>
+3. Third item <br>
+- First item <br>
+- Second item <br>
+- Third item <br>
+`code` <br>
+--- <br>
+| Syntax | Description | <br>
+| ----------- | ----------- | <br>
+| Header | Title | <br>
+| Paragraph | Text | <br>
 ```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-```
-Here's a sentence with a footnote. [^1]
+``` <br>
+Here's a sentence with a footnote. [^1] <br>
 
-[^1]: This is the footnote.
+[^1]: This is the footnote. <br>
 
-~~The world is flat.~~
+~~The world is flat.~~ <br>
 - [x] Write the press release
 - [ ] Update the website
-- [ ] Contact the media
-I need to highlight these ==very important words==.
-H~2~O
-X^2^
-That is so funny! :joy:
+- [ ] Contact the media <br>
+I need to highlight these ==very important words==. <br>
+H~2~O  <br>
+X^2^ <br>
+That is so funny! :joy: <br>
 term
 : definition
 
