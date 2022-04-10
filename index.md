@@ -1,1 +1,4 @@
-i
+'''
+print("Hello world")
+'''
+hello
