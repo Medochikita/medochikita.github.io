@@ -1,3 +1,3 @@
 Hello fellas this is home page for my c++ projects
 
-[basics](c++/basics.md)
+[basics](https://medochikita.github.io/c++/basics)
