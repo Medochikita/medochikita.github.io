@@ -1,4 +1,3 @@
-Code here:
-        print("Hello world")
-        
-Hello there
+code here:
+`print("Hello world")`
+Hello
