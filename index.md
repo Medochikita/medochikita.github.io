@@ -1,3 +1,3 @@
-- [My markdown cheatsheet](/md/home.md)
-- [Python projects](/python/home.md)
-- [C++ projects](/c%2B%2B/home.md)
+- [My markdown cheatsheet](/md/home)
+- [Python projects](/python/home)
+- [C++ projects](/c%2B%2B/home)
