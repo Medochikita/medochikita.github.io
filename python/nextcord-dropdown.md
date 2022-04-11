@@ -1,3 +1,5 @@
+- [Home](/python/home)
+
 # Nextcord menu dropdown 
 
 Datum: 06/04/2022 
