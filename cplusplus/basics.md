@@ -1,10 +1,10 @@
 # Základní program 
 
-Datum: 04/04/2022 
-Tags: C++ 
-Téma: Základní program do konzole 
+Datum: 04/04/2022 <br>
+Tags: C++ <br>
+Téma: Základní program do konzole <br>
 
-# Den 1. programování v C++ 
+# Den 1. v C++ 
 
 ### Základní program v C++ 
 
