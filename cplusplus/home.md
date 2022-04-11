@@ -4,7 +4,7 @@
 
 - [Repository link](https://github.com/Medochikita/Cplusplus-projects)
 
-## Projects
+## Notes for learning
 
 Code from my journey of learning C++ as a second language after python. <br>
 
@@ -13,4 +13,6 @@ Code from my journey of learning C++ as a second language after python. <br>
 3. [If statement](ifstatement) <br>
 4. [Intro to classes](introtoclasses) <br>
 5. [Intro to pointers](introtopointers) <br>
-6. [Reference and pointers](referenceandpointers)
+6. [Reference and pointers](referenceandpointers) <br>
+
+### Some project in my repository linked above
