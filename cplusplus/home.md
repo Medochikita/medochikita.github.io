@@ -2,6 +2,8 @@
 
 - [Home](/index)
 
+- [Repository link](https://github.com/Medochikita/Cplusplus-projects)
+
 ## Projects
 
 Code from my journey of learning C++ as a second language after python. <br>
