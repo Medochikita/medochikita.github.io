@@ -1,3 +1,5 @@
+- [Home](/cplusplus/home)
+
 # Intro to classes 
 
 Datum: 10/04/2022 

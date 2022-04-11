@@ -1,3 +1,5 @@
+- [Home](/cplusplus/home)
+
 # bmi caltulator 
 
 Datum: 05/04/2022 

@@ -1,3 +1,5 @@
+- [Home](/cplusplus/home)
+
 # Pointers základy 
 
 Datum: 05/04/2022 
