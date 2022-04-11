@@ -37,7 +37,7 @@
 | Syntax | Description | 
 | ----------- | ----------- | 
 | Header | Title | 
-| Paragraph | Text | <br>
+| Paragraph | Text |
 ```
 
 
