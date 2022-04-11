@@ -1,6 +1,8 @@
+#Python
+
 - [Home](/index)
 
-# Projekty
+## Projects
 
 List of my python projects ( mb not projects but some usefull code ) <br>
 <br>
