@@ -1,3 +1,5 @@
+- [Home](/cplusplus/home)
+
 # Základní program 
 
 Datum: 04/04/2022 <br>
