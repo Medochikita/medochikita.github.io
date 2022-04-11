@@ -1,10 +1,12 @@
+- [Home](/cplusplus/home)
+
 # Pass by reference
 
 Datum: 11/04/2022 <br>
 Tags: C++ <br>
 Téma: Functions and pointers <br>
 
-# Passing by value and paasing by reference
+# Passing by value and passing by reference
 
 ```cpp
 #include <iostream>
