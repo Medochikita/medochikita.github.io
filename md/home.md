@@ -3,11 +3,16 @@
 - [Home](/index)
 
 # H1 <br>
+`# H1`<br>
 ## H2 <br>
+`## H2` <br>
 ### H3 <br>
+`### H3` <br>
 **bold text** <br>
+`**bold text**` <br>
 
 *italicized text* <br>
+`*italicized text*` <br>
 
 1. First item <br>
 2. Second item <br>
@@ -18,8 +23,10 @@
 - Third item <br>
 
 `code` <br>
+```
+`code`
+```
 
---- <br>
 
 | Syntax | Description | 
 | ----------- | ----------- | 
@@ -27,24 +34,31 @@
 | Paragraph | Text | <br>
 
 ```
+| Syntax | Description | 
+| ----------- | ----------- | 
+| Header | Title | 
+| Paragraph | Text | <br>
+```
 
+
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-``` <br>
+```
 
-Here's a sentence with a footnote. [^1] <br>
 
-[^1]: This is the footnote. <br>
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote. 
 
 ~~The world is flat.~~ <br>
 
 - [x] Write the press release <br>
 - [ ] Update the website <br>
 
-That is so funny! :joy: <br>
 term
 : definition <br>
 
