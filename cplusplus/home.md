@@ -1,6 +1,8 @@
+# C++
+
 - [Home](/index)
 
-# C++
+## Projects
 
 Code from my journey of learning C++ as a second language after python. <br>
 
