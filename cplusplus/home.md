@@ -14,5 +14,6 @@ Code from my journey of learning C++ as a second language after python. <br>
 4. [Intro to classes](introtoclasses) <br>
 5. [Intro to pointers](introtopointers) <br>
 6. [Reference and pointers](referenceandpointers) <br>
+7. [Arrays](arrays) <br>
 
 ### Some project in my repository linked above
