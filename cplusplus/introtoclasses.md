@@ -8,6 +8,8 @@ Téma: Classes
 
 Intro do Classu v C++ 
 
+The main difference betwen classes and structs is that classes can have functions inside them
+
 ```cpp 
 //Song.h 
 
