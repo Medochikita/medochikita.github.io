@@ -1,3 +1,5 @@
+- [Home](home)
+
 # Structs 
 
 Datum: 15/04/2022 
