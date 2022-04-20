@@ -16,4 +16,8 @@ Code from my journey of learning C++ as a second language after python. <br>
 6. [Reference and pointers](referenceandpointers) <br>
 7. [Arrays](arrays) <br>
 
+## Game hacking projects
+
+1. [Assault Cube Memory read](acmemread.md) <br>
+
 ### Some project in my repository linked above
