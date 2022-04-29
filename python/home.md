@@ -6,6 +6,8 @@
 
 - Discord bot build with nextcord framework
 
+- Bot is hosted on Rasperry pi 4 4GB ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
 - Features normal command as well as slash commands
 
 - Commands for games, fun, science and much more
