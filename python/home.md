@@ -1,11 +1,15 @@
-# Python
-
 - [Home](/index)
 
-- [Python bot repository link](https://github.com/Medochikita/Discord-bot)
+## Discord bot
 
-## Projects
+- [Repository link](https://github.com/Medochikita/Discord-bot)
 
-List of my python projects ( mb not projects but some usefull code ) <br>
-<br>
-- [Nextcord dropdown menu](nextcord-dropdown)
+- Discord bot build with nextcord framework
+
+- Features normal command as well as slash commands
+
+- Commands for games, fun, science and much more
+
+- Prefix is fixed: !
+
+- [Invite link](https://discord.com/api/oauth2/authorize?client_id=842061459155320873&permissions=1643898207444&scope=bot%20applications.commands)
