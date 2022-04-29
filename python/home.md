@@ -4,9 +4,15 @@
 
 - [Repository link](https://github.com/Medochikita/Discord-bot)
 
-- Discord bot build with nextcord framework
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Medochikita/Discord-bot?include_prereleases&style=for-the-badge) ![GitHub Release Date](https://img.shields.io/github/release-date/Medochikita/Discord-bot?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/Medochikita/Discord-bot?style=for-the-badge)
+<br>
+<br>
 
-- Bot is hosted on Rasperry pi 4 4GB ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+- Discord bot build with nextcord framework <br>
+![Nextcord](https://badgen.net/badge/icon/Nextcord?icon=https://nextcord.dev/icon.svg&label&scale=1.5&style=for-the-badge)
+
+- Bot is hosted on Rasperry pi 4 4GB <br>
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 - Features normal command as well as slash commands
 
