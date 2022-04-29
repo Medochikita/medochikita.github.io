@@ -25,6 +25,8 @@
 
 - I'm teenager located in europe interested in coding and games
 
-- [Reddit](https://www.reddit.com/user/Medochikita/)
+- Social links:
 
-- [GitHub](https://github.com/Medochikita)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Medochikita/) <br>
+
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@ondrejkutil_)
