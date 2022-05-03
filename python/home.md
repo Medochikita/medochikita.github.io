@@ -1,4 +1,5 @@
 - [Home](/index)
+- [Discord bot help](bot_help)
 
 ## Discord bot
 
