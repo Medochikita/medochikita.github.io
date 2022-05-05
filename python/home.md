@@ -25,22 +25,29 @@
 
 | Slash commands | Explanation |
 | ----------- | ----------- |
-| /color | From RGB values gets the color and shows it with a bunch of other stuff |
+| /help | Sends help command |
+| /color <r> <g> <b> | From RGB values gets the color and shows it with a bunch of other stuff |
 | /apex_map | Sends current apex map rotation for all modes |
-| /coinflip | Randomly decides from the two arguments you provide |
+| /coinflip <first> <second> | Randomly decides from the two arguments you provide |
 | /covid | Sends info about COVID-19 cases in CZ |
 
 ## Normal commands
 
 | Normal commands | Explanation |
 | ----------- | ----------- |
+| prefix <prefix> | Sets the prefix to the one u provided |
+| play <url / name> | Plays the song you request |
+| stop | Stops playing the song |
+| pause | Pauses currently playing song |
+| resume | Resumes currently paused song |
+| join | Joins a vc user is in |
+| leave | Leaves voice channel |
 | ping | Sends the bots current ping |
-| help | Sends help command |
-| crypto | Sends info about crypto you provide |
-| money | Sends conversion between two currencies you provide |
-| poll | Creates a poll that users can vote on |
+| crypto <crypto tag> | Sends info about crypto you provide |
+| money <value> <curr> <curr> | Sends conversion between two currencies you provide |
+| poll <message> | Creates a poll that users can vote on |
 | serverinfo | Sends information about the server |
 | avatar | Sends tagged users or yours avatar |
-| urban | Sends urban dictionary explanation of the word u provided |
-| apex_stats | Sends stats about provided player in Apex legends |
-| riot_stats | Sends stats about provided player in League of legends |
+| urban <word> | Sends urban dictionary explanation of the word u provided |
+| apex_stats <name> | Sends stats about provided player in Apex legends |
+| riot_stats <name> | Sends stats about provided player in League of legends |
