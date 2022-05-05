@@ -17,7 +17,8 @@
 - Bot is hosted on Rasperry pi 4 4GB <br>
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-- Prefix is fixed: ! ( working on that )
+- Prefix is changable using the prefix command
+- Default prefix is !
 
 - [Invite link](https://discord.com/api/oauth2/authorize?client_id=842061459155320873&permissions=1643898207444&scope=bot%20applications.commands)
 
